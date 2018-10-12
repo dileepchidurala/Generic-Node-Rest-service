@@ -1,0 +1,24 @@
+{
+  "name": "noderestapi",
+  "version": "1.0.0",
+  "description": "A generic Node server which provide rest services with database teradata",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dileepchidurala/Generic-Node-Rest-service.git"
+  },
+  "keywords": [
+    "Node",
+    "rest",
+    "api"
+  ],
+  "author": "Dileep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dileepchidurala/Generic-Node-Rest-service/issues"
+  },
+  "homepage": "https://github.com/dileepchidurala/Generic-Node-Rest-service#readme"
+}
